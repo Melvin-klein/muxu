@@ -1,6 +1,6 @@
 {
   "name": "muxu",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Muxu is a SSR framework for React",
   "main": "./dist/Muxu.js",
   "repository": "https://github.com/Melvin-klein/muxu.git",
