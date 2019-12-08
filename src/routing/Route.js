@@ -4,3 +4,5 @@ class Route {
         this.component = component;
     }
 }
+
+export default Route;
