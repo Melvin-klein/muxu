@@ -1,3 +1,5 @@
+import Route from "./Route";
+
 class Router {
     constructor () {
         this.routes = [];
