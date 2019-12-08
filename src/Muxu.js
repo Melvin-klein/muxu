@@ -1,5 +1,9 @@
-import router from './routing/Router'
+import Router from './routing/Router';
+
+export {
+    Router,
+};
 
 export default {
-    router
-}
+    Router
+};
