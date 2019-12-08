@@ -1,9 +1,7 @@
 import Router from './routing/Router';
-
-export {
-    Router,
-};
+import MuxuRouterComponent from "./routing/MuxuRouterComponent";
 
 export default {
-    Router
+    Router,
+    MuxuRouterComponent
 };
