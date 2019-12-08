@@ -7,3 +7,5 @@ class Router {
         this.routes.push(new Route(uri, component))
     }
 }
+
+export default Router;
