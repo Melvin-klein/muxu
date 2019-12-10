@@ -1,0 +1,7 @@
+src/
+tests/
+.babelrc
+webpack.config.js
+.gitignore
+yarn.lock
+.npmignore
