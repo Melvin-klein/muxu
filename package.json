@@ -1,8 +1,8 @@
 {
   "name": "muxu",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Muxu is a SSR framework for React",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "repository": "https://github.com/Melvin-klein/muxu.git",
   "author": "Melvine Nargeot <melvine.nargeot@gmail.com>",
   "license": "MIT",
