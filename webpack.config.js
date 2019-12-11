@@ -3,6 +3,9 @@ module.exports = {
     entry: {
         index: "./src/index.js"
     },
+    output: {
+        libraryTarget: "commonjs2"
+    },
     resolve: {
         extensions: ['.js', '.jsx']
     },
